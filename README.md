@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayomdeng
+- 👋 Hi, I’m mayom
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN projects
